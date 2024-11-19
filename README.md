@@ -25,12 +25,15 @@ This project is a full-stack MERN (MongoDB, Express.js, React, Node.js) applicat
 Below are some screenshots of the application:
 
 #### Home Page
+![Screenshot 2024-11-19 at 3 47 30 PM](https://github.com/user-attachments/assets/883b2ede-e5ff-411b-b549-70f13fd2b2e2)
 
 
 #### Add Book Detail Page
+![Screenshot 2024-11-19 at 3 47 36 PM](https://github.com/user-attachments/assets/c881ddbe-2e4d-49d2-90cc-35493cadad99)
 
 
 #### Update Book Detail Page
+![Screenshot 2024-11-19 at 3 47 41 PM](https://github.com/user-attachments/assets/196f7aaf-ae7f-47fd-a9cd-46992e532747)
 
 
 ## Installation
