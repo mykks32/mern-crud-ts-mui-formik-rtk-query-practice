@@ -1,5 +1,4 @@
-import { Box, Button, Grid, Typography, CircularProgress, Card, CardContent, CardActions } from '@mui/material';
-// import { Delete } from '@mui/icons-material';
+import { Box, Button, Grid, Typography, CircularProgress } from '@mui/material';
 import { useGetBooksQuery } from "../features/api/baseApiSlice";
 import { useNavigate } from 'react-router-dom';
 import BookCard from './BookCard';
@@ -7,6 +6,7 @@ import { Book } from '../types/bookTypes';
 
 const BooksList = () => {
     const { data, error, isLoading } = useGetBooksQuery();
+    console.log(data);
     const navigate = useNavigate();
 
 
